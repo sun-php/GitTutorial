@@ -1,2 +1,4 @@
 Another txt file
 updated with main branch
+* updated with feature branch
+New line fore new feature
