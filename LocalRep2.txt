@@ -2,3 +2,4 @@ Git commit
 local commit
 New branch
 New commit
+New comit fetch
